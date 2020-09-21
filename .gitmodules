@@ -1,0 +1,4 @@
+[submodule "sub"]
+	path = sub
+	url = https://github.com/hydrasky-team/sample_repo_sub1
+	branch = master
