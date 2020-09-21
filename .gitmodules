@@ -2,3 +2,6 @@
 	path = sub
 	url = https://github.com/hydrasky-team/sample_repo_sub1
 	branch = master
+[submodule "Sample_ola"]
+	path = Sample_ola
+	url = https://github.com/alvasky-cloud/Sample_ola
